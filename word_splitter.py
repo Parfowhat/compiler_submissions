@@ -1,4 +1,4 @@
-# Code Word Splitter Assignment
+# Code Tokenizer Assignment
 # Author: GHUFRAN AHMED
 # Seat No: EB21103039
 
@@ -82,6 +82,9 @@ def main():
     print(f"Operator count: {operator_count}")
     print(f"Separator count: {separator_count}")
     print(f"Keyword count: {keyword_count}")
+
+    # Display the author name
+    print("\nAuthor: GHUFRAN AHMED")
 
 
 if __name__ == "__main__":
