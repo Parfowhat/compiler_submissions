@@ -1,4 +1,4 @@
-# Code Tokenizer Assignment
+# Code Word Splitter Assignment
 # Author: GHUFRAN AHMED
 # Seat No: EB21103039
 
